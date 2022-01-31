@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reyson Antonio</h1>
-<h3 align="center">A passionate student, interested in data science.</h3>
+<h3 align="center">A passionate student, interested in backend and data science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rant-2000&label=Profile%20views&color=0e75b6&style=flat" alt="rant-2000" /> </p>
 

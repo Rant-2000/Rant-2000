@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rant-2000&label=Profile%20views&color=0e75b6&style=flat" alt="rant-2000" /> </p>
 
-<p align="left"> <a href="[https://twitter.com/@antonioreyson](https://twitter.com/AntonioReyson)" target="blank"><img src="https://img.shields.io/twitter/follow/@antonioreyson?logo=twitter&style=for-the-badge" alt="@antonioreyson" /></a> </p>
+<p align="left"> <a href="https://twitter.com/AntonioReyson" target="blank"><img src="https://img.shields.io/twitter/follow/@antonioreyson?logo=twitter&style=for-the-badge" alt="@antonioreyson" /></a> </p>
 
 - 🌱 I’m currently learning **Flask, Hibernate and Spring**
 
